@@ -6,7 +6,7 @@
 
 |     Item     |                           Details                            |
 | :----------: | :----------------------------------------------------------: |
-|  Front End   | React JS hosted on Github - https://ramjee.github.io/eng-python-trans/ | 
+|  Front End   | React JS hosted on Github - https://rramjee.github.io/eng-python-trans/ | 
 |   Backend    | Flask hosted on heroku - https://eng-python-project.herokuapp.com/ |
 | Architecture |                         Transformer                          |
 |              |                                                              |
